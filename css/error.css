@@ -1,0 +1,17 @@
+.error-msg {
+  width: 100%;
+  height: 204px;
+  text-align: center;
+  margin-top: 132px;
+}
+.error-msg :nth-child(2) {
+  margin-top: 44px;
+  margin-bottom: 24px;
+}
+.error-msg :nth-child(3) {
+  margin: 0 70px;
+}
+
+.emoji {
+  font-size: 50px;
+}/*# sourceMappingURL=error.css.map */
